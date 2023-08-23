@@ -1,9 +1,5 @@
 # Loknext - Terminal Password Manager
 
-[![GitHub license](https://img.shields.io/github/license/esfoliante/loknext)](https://github.com/esfoliante/loknext/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/esfoliante/loknext)](https://github.com/esfoliante/loknext/issues)
-[![GitHub stars](https://img.shields.io/github/stars/esfoliante/loknext)](https://github.com/esfoliante/loknext/stargazers)
-
 ## Introduction
 
 Loknext is a secure and efficient terminal-based password manager, built using Rust. It provides a convenient way to manage your passwords and sensitive information right from your command line. In an age where digital security is of paramount importance, Loknext offers a robust solution for storing and accessing your credentials with ease.
